@@ -1,5 +1,7 @@
-.docx
-.pdf
+*.jpeg
+*.jpg
+*.docx
+*.pdf
 .virtual_documents
 .ipynb_checkpoints
 .DS_Store
